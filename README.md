@@ -39,7 +39,7 @@ The following are explanations for each of the fields used for the app data. It'
 * eh - Ending hour. Should not start with a 0.
 * em - Ending minute. Should not start with a 0, but can be 0.
 * title - Title shown in the widget. Should be name of period or passing message.
-* 
+
 *No CSV file as the array of objects can't be converted. Edit the JSON directly.
 
 ## CSV to JSON
